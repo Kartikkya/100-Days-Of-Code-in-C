@@ -1,2 +1,2 @@
-100-Days-Of-Code-in-C
+#100-Days-Of-Code-in-C
 Author - Kartikkya
